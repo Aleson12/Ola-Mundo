@@ -2,4 +2,4 @@
 
  Primeiro repositório do **Curso de Git e GitHub**! Demais!
 
-Essa linha eu adicionei diretamente no site!
+*Essa linha eu adicionei diretamente no site!*
